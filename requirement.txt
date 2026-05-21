@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pandas
+numpy
+openai
+chromadb
+sentence-transformers
+python-dotenv
+googlemaps
+requests
+langchain
+langchain-community
+tiktoken
+geopy
